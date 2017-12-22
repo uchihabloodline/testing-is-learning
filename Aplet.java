@@ -13,7 +13,7 @@ class Aplet extends Applet {
  }
 
  public void start(){
- System.out.println(" start function called..");
+ System.out.println(" start function called..and yes its called");
 
  }
 public void stop(){
